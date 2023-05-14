@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="right">
+  <a href="https://matheusalencar23.github.io/">
+    <img src="https://img.shields.io/badge/MyWebPage-blue" alt="My Page Badge"/>
   <a href="https://www.linkedin.com/in/matheus-alencar-859693191/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
