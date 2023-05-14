@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1>Hi there! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Matheus Alencar, Frontend developer from <img src="https://github.com/matheusalencar23/matheusalencar23/assets/65236298/477fda66-aafc-4c20-ad78-82240f82c597" width="15"/> <b>Brazil</b></p>
+<p>Welcome to my page! </br> I'm Matheus Alencar, Frontend developer from <b>Brazil</b> <img src="https://github.com/matheusalencar23/matheusalencar23/assets/65236298/477fda66-aafc-4c20-ad78-82240f82c597" width="15"/></p>
 
 
 <div align="right">
