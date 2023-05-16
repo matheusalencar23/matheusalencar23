@@ -16,8 +16,19 @@ Here are some ideas to get you started:
 <h1>Hi there! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Matheus Alencar, Frontend developer from <b>Brazil</b> <img src="https://github.com/matheusalencar23/matheusalencar23/assets/65236298/477fda66-aafc-4c20-ad78-82240f82c597" width="15"/></p>
+<p>Welcome to my page! </br> I'm Matheus Alencar, front-end developer from <b>Brazil</b> <img src="https://github.com/matheusalencar23/matheusalencar23/assets/65236298/477fda66-aafc-4c20-ad78-82240f82c597" width="15"/></p>
 
+<p>Hello! I'm a front-end developer with experience in technologies like Angular and React.</p>
+
+<p>I graduated in Mechanical Engineering from the Federal University of Ceará (UFC) in 2021, where I gained a solid foundation in mathematics, logic, and problem-solving. During my studies, I had the opportunity to learn languages like C and Python, which provided me with a strong understanding of structured programming and efficient algorithm development.</p>
+
+<p>After identifying myself with the world of programming, I focused my efforts on learning modern front-end technologies like Angular and React, which are widely used. These frameworks allow me to create interactive and responsive user interfaces.</p>
+
+<p>In addition, I have knowledge of other front-end development technologies such as HTML, CSS, JavaScript, and TypeScript. I'm also familiar with testing tools and CSS preprocessors like Jest, Karma, Jasmine, Sass, and Less. These combined skills enable me to create attractive and functional interfaces while ensuring code quality and maintainability.</p>
+
+<p>I am fully capable of effectively collaborating in multidisciplinary teams, working together with designers, back-end developers, and stakeholders.</p>
+
+<p>I continuously keep myself updated on the latest trends and advancements in front-end development. I have a keen interest in exploring new technologies like Vue.js and Svelte, as well as mobile development technologies.</p>
 
 <div align="right">
   <a href="https://matheusalencar23.github.io/">
