@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <p>I am fully capable of effectively collaborating in multidisciplinary teams, working together with designers, back-end developers, and stakeholders.</p>
 
-<p>I continuously keep myself updated on the latest trends and advancements in front-end development. I have a keen interest in exploring new technologies like Vue.js and Svelte, as well as mobile development technologies.</p>
+<p>I continuously keep myself updated on the latest trends and advancements in front-end development. I have a keen interest in exploring new technologies like Vue.js, Solid.js and Svelte, as well as mobile development technologies.</p>
 
 <div align="right">
   <a href="https://matheusalencar23.github.io/">
