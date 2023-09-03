@@ -30,6 +30,8 @@ Here are some ideas to get you started:
 
 <p>I continuously keep myself updated on the latest trends and advancements in front-end development. I have a keen interest in exploring new technologies like Vue.js, Solid.js and Svelte, as well as mobile development technologies.</p>
 
+<p>Currently, I am pursuing a postgraduate degree in Software Engineering at PUC Minas, where I have been deepening my knowledge in software development and advanced programming practices.</p>
+
 <div align="right">
   <a href="https://matheusalencar23.github.io/">
     <img src="https://img.shields.io/badge/MyWebPage-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAACXBIWXMAAAsTAAALEwEAmpwYAAACmUlEQVR4nO2ZPWsVQRSG90YLP6Ji0gVixE5Fi1gYo2AbbRUUEYMgij8ggqkuKsZgI+YfpIqF4gemjpUghhg/SkFQ/KyUSFTQRwb2kr0n5+7uzOzmujhve2ees2d25sx570ZRUFBQUND/IGA1UAd2RVUWMMSSngPnoyoKmKRZN6OqCVgHfBOJ7IuqJuC4SOINUIuqJuC+SOTySj/AHqDfk9EF/BSJ7MiY029i+8RNwnqAt8AicMKDc04kMZcx/giwALwHel3jNmDrgdlE8D/AqCNrRiQykjJ2NI7V0FNTKFyTqAFTLNdVB1Yv8FssSF/K+DEl7m2gwyURDXbHBQZcEJyZHIt4S4l/yTbwKQUyZ7aabRIx75lgnc0xZy3wRMwzb/Jk3qD7gR8C8MH1wAHbBesX0G1RaN6J+YuZlyiwFfikTBxwSSJmXhG8ew6l/7tgfAS2tJqwIW7i5Kv0Kblmr78WzGMOnKOiihm9BDbKgauAByxX3TWJmDsoeAse56yuPN9D8+zJQTeUQVO+fRAwIZiTHqxai+vgWmPAaeXHWecLqNlAmb2c1JAncw3wWHneM2UmckgwP5vkSkukrK2lGKgJV1bG1hov7bCXYaDQD/t002FPlN8XRZTfog0Uevl9BWwq9UIs0kChX4hfgG1ZEw/4tCjAZsVA7XRMokdpUQz7YF7AcIumsbNoA2XZNC5VKAvQdbJuUn3eo7wGyqGNH4scYB3AXRuYrYGy9ELTWYuYBuwE5tWWQB8/YmOgUjgXxYLM59nWWdC+uNUwBWC4aAOVwjoMfM1VoSygA1kl2Py1o1SXLs+4u4G9PowVN1D/hCjIQLVdRRqotqpIA9VWmY81wu97Gai2y3xOi9ttLwMVFBQUFBRVRX8B/NEkoAAoo+kAAAAASUVORK5CYII=" alt="My Page Badge"/>&nbsp;
