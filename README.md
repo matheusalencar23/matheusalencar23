@@ -15,22 +15,33 @@ Here are some ideas to get you started:
 -->
 <h1>Hi there! Nice to see you.</h1>
 
-
 <p>Welcome to my page! </br> I'm Matheus Alencar, front-end developer from <b>Brazil</b> <img src="https://github.com/matheusalencar23/matheusalencar23/assets/65236298/477fda66-aafc-4c20-ad78-82240f82c597" width="15"/></p>
 
-<p>Hello! I'm a front-end developer with experience in technologies like Angular and React.</p>
+<p>I am a front-end developer with experience in technologies such as <b>Angular, React, TypeScript, HTML, and CSS</b>, as well as knowledge of <b>CSS preprocessors (Sass, Less)</b>, styling frameworks like <b>Bootstrap and Tailwind</b>, and component libraries like <b>Material UI and PrimeNG</b>.</p>
 
-<p>I graduated in Mechanical Engineering from the Federal University of Ceará (UFC) in 2021, where I gained a solid foundation in mathematics, logic, and problem-solving. During my studies, I had the opportunity to learn languages like C and Python, which provided me with a strong understanding of structured programming and efficient algorithm development.</p>
+<p>Currently, I work as a <b>Front-End Developer at Audsat</b>, developing solutions for agricultural monitoring and socio-environmental risk assessment. I have experience with <b>system integration, geographic data manipulation in interfaces, and dynamic report generation</b> using <b>Python and Jinja2</b>.</p>
 
-<p>After identifying myself with the world of programming, I focused my efforts on learning modern front-end technologies like Angular and React, which are widely used. These frameworks allow me to create interactive and responsive user interfaces.</p>
+<p>I have also worked on projects in the <b>insurance and financial solutions sector</b>, developing modern and responsive interfaces, as well as implementing <b>automated testing with Jest, Jasmine, and Karma</b> to ensure code quality.</p>
 
-<p>In addition, I have knowledge of other front-end development technologies such as HTML, CSS, JavaScript, and TypeScript. I'm also familiar with testing tools and CSS preprocessors like Jest, Karma, Jasmine, Sass, and Less. These combined skills enable me to create attractive and functional interfaces while ensuring code quality and maintainability.</p>
+<p>I am currently pursuing a <b>postgraduate degree in Software Engineering at PUC Minas</b>, aiming to enhance my skills and stay up to date with the best industry practices.</p>
 
-<p>I am fully capable of effectively collaborating in multidisciplinary teams, working together with designers, back-end developers, and stakeholders.</p>
+<p>🚀 Always looking for new challenges and learning opportunities!</p>
 
-<p>I continuously keep myself updated on the latest trends and advancements in front-end development. I have a keen interest in exploring new technologies like Vue.js, Solid.js and Svelte, as well as mobile development technologies.</p>
+  ---
 
-<p>Currently, I am pursuing a postgraduate degree in Software Engineering at PUC Minas, where I have been deepening my knowledge in software development and advanced programming practices.</p>
+<h1>Olá! É bom te ver por aqui.</h1>
+
+<p>Bem-vindo à minha página! </br> Sou Matheus Alencar, desenvolvedor front-end do <b>Brasil</b> <img src="https://github.com/matheusalencar23/matheusalencar23/assets/65236298/477fda66-aafc-4c20-ad78-82240f82c597" width="15"/></p>
+
+<p>Sou um desenvolvedor front-end com experiência em tecnologias como <b>Angular, React, TypeScript, HTML e CSS</b>, além de conhecimento em <b>pré-processadores CSS (Sass, Less)</b>, frameworks de estilização como <b>Bootstrap e Tailwind</b>, e bibliotecas de componentes como <b>Material UI e PrimeNG</b>.</p>
+
+<p>Atualmente, atuo como <b>Desenvolvedor Front-end na Audsat</b>, trabalhando no desenvolvimento de soluções para monitoramento agrícola e avaliação de riscos socioambientais. Tenho experiência com <b>integração de sistemas, manipulação geográfica em interfaces e geração de relatórios dinâmicos</b> utilizando <b>Python e Jinja2</b>.</p>
+
+<p>Já trabalhei em projetos no setor de <b>seguros e soluções financeiras</b>, desenvolvendo interfaces modernas e responsivas, além de implementar <b>testes automatizados com Jest, Jasmine e Karma</b> para garantir a qualidade do código.</p>
+
+<p>Atualmente, estou cursando uma <b>pós-graduação em Engenharia de Software na PUC Minas</b>, buscando aprimorar minhas habilidades e me manter atualizado sobre as melhores práticas do setor.</p>
+
+<p>🚀 Sempre em busca de novos desafios e aprendizados!</p>
 
 <div align="right">
   <a href="https://matheusalencar23.github.io/">
