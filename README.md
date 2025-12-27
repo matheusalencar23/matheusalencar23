@@ -18,11 +18,9 @@ Sempre em busca de novos desafios, aprendizado contínuo e oportunidades para co
 
 ---
 
-## 🛠 Tecnologias que uso
+## 🛠 Tecnologias que mais uso
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,sass,bootstrap,tailwind,git" alt="Tecnologias" />
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,sass,bootstrap,tailwind,git" alt="Tecnologias" />
 
 ---
 
@@ -41,6 +39,11 @@ Sempre em busca de novos desafios, aprendizado contínuo e oportunidades para co
 📁 **GitHub:** https://github.com/matheusalencar23
 
 ---
+
+###
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=matheusalencar23.matheusalencar23&"  />
+
 
 
 
